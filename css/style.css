@@ -1,0 +1,153 @@
+.menu-bar-icon{
+    font-size: 25px;
+}
+
+.hero{
+    position: relative;
+}
+
+.hero-h-one{
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.hero-p{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.hero-img{
+    position: absolute;
+}
+
+.service-h-three{
+    width: 450px;
+    margin-top: 200px;
+    display: inline-block;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.service-img{
+    margin: 0px 64px;
+}
+
+.service-p{
+    width: 300px;
+}
+
+
+.div{
+    border: 1px solid #e4e4e4;
+    box-shadow: 1px 1px 10px #ddd;
+}
+
+hr{
+    width: 100px;
+    background: rgb(21, 231, 214);
+}
+
+.bg{
+    height: 317px;
+}
+
+
+.feature-text{
+    background: rgba(243, 235, 235, 0.863);
+    margin-left: -30px;
+    
+}
+
+.feature-h-three{
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    width: 350px;
+}
+
+.feature-p{
+    line-height: 2.1;
+    width: 500px;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.card-p{
+    display: inline-block;
+    font-size: 15px;
+}
+
+
+.phone-ul{
+    list-style: none;
+}
+
+.phone-li{
+    box-shadow: 3px 1px 5px #ddd;
+    background: rgb(247, 244, 244);
+}
+
+.phone-img{
+    
+position: absolute;
+    
+margin-top: 20px;
+}
+
+.icon{
+    font-size: 20px;
+   
+}
+
+.android{
+    padding-top: 70px;
+    background: rgba(243, 240, 240, 0.856);
+    /* position: relative; */
+    margin-top: 88px;
+}
+
+.circle{
+    /* padding: 14px; */
+    margin-left: 442px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.android-div{
+    
+padding-top: 93px;
+}
+
+.android-h{
+    margin-top: 182px;
+}
+
+.android-p{
+    font-size: 13px;
+    margin-top: 34px;
+}
+.black{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    margin-left: 98px;
+    margin-top: -59px;
+    box-shadow: 1px -4px 7px;
+}
+
+.white-one{
+    width: 200px;
+    height: 340px;
+    float: left;
+    box-shadow: 1px 1px 13px;
+}
+.white-two{
+    width: 200px;
+    height 300px;
+    height: 300px;
+    float: left;
+    margin-top: 41px;
+    box-shadow: 1px 1px 13px;
+}
